@@ -1,0 +1,5 @@
+MANIFEST
+Makefile.PL
+README
+lib/Sort/PolySort.pm
+t/PolySort.t
